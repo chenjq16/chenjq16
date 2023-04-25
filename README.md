@@ -2,6 +2,7 @@
 
 I'm curretly a master student.
 
+Fun fact: 🏀 🎬 📺 🤖️
 
 <!--
 **chenjq16/chenjq16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
