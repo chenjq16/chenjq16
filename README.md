@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm curretly a master student.
+I'm curretly a doctoral student.
 
 Fun fact: 🏀 🎬 📺 🤖️
 
