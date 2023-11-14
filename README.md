@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm curretly a doctoral student.
+I’m currently working on robotics.
 
 Fun fact: 🏀 🎬 📺 🤖️
 
