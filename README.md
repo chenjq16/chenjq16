@@ -6,6 +6,8 @@ I’m currently working on robotics.
 
 Fun fact: 🏀 🎬 📺 🤖️
 
+[![Top Langs](https://github-readme-stats-rouge-zeta.vercel.app/api/top-langs/?username=chenjq16&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **chenjq16/chenjq16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
